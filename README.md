@@ -1,5 +1,5 @@
 # Streaming-site-refonte
-Refonte des site de streaming clone
+Refonte des site de streaming clone avec l'extention Tampermonkey oublier pas de vous crée un compte sur themoviedb pour avoir une api
 
 ![image](https://user-images.githubusercontent.com/113921255/231192240-adabba9a-6526-4784-8570-6a44c00f1bc1.png)
 
